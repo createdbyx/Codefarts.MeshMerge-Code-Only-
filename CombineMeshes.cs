@@ -5,7 +5,7 @@
 //   http://www.codefarts.com
 // </copyright>
 
-namespace Codefarts.GeneralTools.Code
+namespace Codefarts.GeneralTools.Utilities
 {
     using System;
     using System.Collections.Generic;

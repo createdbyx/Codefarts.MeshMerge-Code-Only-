@@ -1,4 +1,4 @@
-﻿namespace Codefarts.GeneralTools.Code.Utilities
+﻿namespace Codefarts.GeneralTools.Utilities
 {
     using UnityEditor;
 

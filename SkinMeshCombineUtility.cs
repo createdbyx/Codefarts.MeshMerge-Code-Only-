@@ -14,7 +14,7 @@
 This script was based on the MeshCombineUtility provided by Unity, I have just modified in order to create new submeshes for meshes which uses different materials
 PS: It was tested with FBX files exported from 3D MAX*/
  
-namespace Codefarts.GeneralTools.Code
+namespace Codefarts.GeneralTools.Utilities
 {
     using UnityEngine;
 
